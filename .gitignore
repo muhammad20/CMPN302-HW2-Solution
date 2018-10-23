@@ -1,0 +1,10 @@
+*.pdf
+**/output
+.vscode/
+bin/
+build/
+*.txt
+*.zip
+*.in
+*.out
+*.time
